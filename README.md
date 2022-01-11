@@ -1,3 +1,2 @@
 # myrepo_cfss
-CFSS Course Repo
-A line I wrote on my pc
+This is a line I wrote from RStudio
